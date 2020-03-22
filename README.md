@@ -3,9 +3,8 @@
 <ul>
  <h3>Tampilan/komponen</h3>
 <li> Bootstrap 4 </li>
-<li> Dashboard Grafik</li>
-<li> </li>
-<ul>
+<li> Laravel 7</li>
+</ul>
  <hr>
  <ul> 
 <h3>Data Master & Transaksi</h3>
